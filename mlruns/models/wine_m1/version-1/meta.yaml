@@ -1,0 +1,12 @@
+creation_timestamp: 1676609753186
+current_stage: None
+description: ''
+last_updated_timestamp: 1676609753186
+name: wine_m1
+run_id: db05b39e8c764acc8a78c54b29541534
+run_link: ''
+source: file:///Users/mamasun/Desktop/WORKS/AI/MLflow/mlflow-example/mlruns/0/db05b39e8c764acc8a78c54b29541534/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

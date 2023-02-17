@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamasun/Desktop/WORKS/AI/MLflow/mlflow-example/mlruns/0/db05b39e8c764acc8a78c54b29541534/artifacts
+end_time: 1676609453860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db05b39e8c764acc8a78c54b29541534
+run_name: classy-cow-68
+run_uuid: db05b39e8c764acc8a78c54b29541534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676609450546
+status: 3
+tags: []
+user_id: mamasun
